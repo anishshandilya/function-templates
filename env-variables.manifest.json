@@ -12,6 +12,16 @@
         "link": null,
         "default": "/hello-voice",
         "configurable": false
+      },
+      {
+        "key": "GOOGLE_CREDENTIALS",
+        "contentKey": "GOOGLE_CREDENTIALS_CONTENT",
+        "required": true,
+        "format": "text",
+        "description": "Credentials file",
+        "link": null,
+        "default": "/credentials.json",
+        "configurable": false
       }
     ],
     "hello-messaging": [
